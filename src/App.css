@@ -1,0 +1,57 @@
+.todoText{
+  background: #5D9CD6;
+    padding: 45px;
+}
+
+.todoTitle{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 45px;
+  text-align: right;
+}
+.todoAddnew{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  text-align: right;
+    
+}
+.todoWork{
+  color: #878889;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    padding: 30px;
+}
+input{
+  width: 90%;
+  padding: 15px;
+  margin: 5px;
+  border-radius: 6px;
+  border:1px solid #ccc;
+  font-family: 'Roboto', sans-serif;
+}
+.addBtn{
+  display: inline-block;
+}
+.NewItems1{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+}
+.itemName{
+  color: #878889;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+}
+.itemName1{
+  color: #878889;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    text-decoration: line-through;
+}
